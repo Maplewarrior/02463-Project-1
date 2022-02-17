@@ -3,9 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-fashion-mnist_test.csv
-fashion-mnist_train.csv
-
+# Ignore data set
+Data/
 
 # C extensions
 *.so
